@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou Euripides Costa
 
-### 💻 Desenvolvedor Full Stack | Back-end Node.js
+### 💻 Desenvolvedor Full Stack | Back-end Node.js | SQL & PL/SQL
 
-**Node.js • Express • TypeScript • React • Tailwind CSS • PostgreSQL • MySQL • Prisma • Docker**
+**Node.js • Express • TypeScript • React • Tailwind CSS • PostgreSQL • MySQL • Oracle • PL/SQL • Prisma • Sequelize • Docker**
 
 Desenvolvimento de aplicações web, APIs REST, bancos de dados e soluções orientadas a regras de negócio.
 
@@ -19,6 +19,8 @@ Sou **Desenvolvedor Full Stack com foco em Back-end**, especializado no desenvol
 No **Back-end**, trabalho principalmente com:
 
 **Node.js • Express • TypeScript • Prisma • Sequelize • PostgreSQL • MySQL**
+
+Também possuo conhecimentos em **Oracle Database, SQL e PL/SQL**, incluindo criação de procedures, funções, packages e triggers, manipulação de dados e análise de planos de execução.
 
 No **Front-end**, desenvolvo interfaces utilizando:
 
@@ -50,6 +52,8 @@ Meu objetivo é desenvolver aplicações organizadas, seguras, escaláveis e de 
 
 ## 🗄️ Banco de Dados & ORM
 
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-B71C1C?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -61,6 +65,7 @@ Meu objetivo é desenvolver aplicações organizadas, seguras, escaláveis e de 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge)
 
 ---
 
@@ -90,6 +95,45 @@ Experiência no desenvolvimento de:
 - Agendamentos
 - Relatórios
 - Integração entre sistemas
+
+---
+
+# 🗄️ Oracle Database, SQL & PL/SQL
+
+Conhecimentos em desenvolvimento de rotinas de banco de dados utilizando **Oracle Database, SQL e PL/SQL**.
+
+### 📝 SQL e estrutura de dados
+
+- Criação e alteração de tabelas
+- Chaves primárias, estrangeiras e constraints
+- Sequences e colunas identity
+- Consultas com JOINs, subconsultas e funções de agregação
+- Inserção, atualização e exclusão de dados
+- Controle de transações com COMMIT, ROLLBACK e SAVEPOINT
+- Criação de tipos com CREATE TYPE
+
+### ⚙️ Desenvolvimento PL/SQL
+
+- Blocos anônimos
+- Procedures e funções
+- Packages: specification e body
+- Triggers
+- Cursores explícitos e implícitos
+- Tratamento de exceções
+- Records e collections
+- Associative arrays e métodos de collections
+- BULK COLLECT e FORALL
+- Funções pipelined com PIPE ROW
+- Leitura de arquivos com UTL_FILE
+- Agendamento de rotinas com DBMS_SCHEDULER
+
+### 🔎 Análise e ferramentas
+
+- Análise de planos de execução com EXPLAIN PLAN e DBMS_XPLAN
+- Estudo de desempenho de consultas SQL e rotinas PL/SQL
+- Oracle SQL Developer
+- Modelagem de dados com Oracle SQL Developer Data Modeler
+- Documentação de procedures, funções, packages e triggers
 
 ---
 
@@ -269,17 +313,19 @@ Busco oportunidades como:
 
 ### ⚙️ Desenvolvedor Back-end Node.js
 
-ou
-
 ### 💻 Desenvolvedor Full Stack JavaScript / TypeScript
+
+### 🗄️ Desenvolvedor SQL / PL/SQL
 
 Com foco principalmente em:
 
-`Node.js` • `Express` • `TypeScript` • `APIs REST` • `PostgreSQL` • `MySQL` • `Prisma` • `Docker`
+`Node.js` • `Express` • `TypeScript` • `APIs REST` • `Oracle` • `SQL` • `PL/SQL` • `PostgreSQL` • `MySQL` • `Prisma` • `Docker`
 
 e desenvolvimento Full Stack utilizando:
 
 `React` • `TypeScript` • `Tailwind CSS`
+
+Interesse em desenvolvimento e manutenção de sistemas corporativos, rotinas de banco de dados e implementação de regras de negócio.
 
 ---
 
@@ -295,11 +341,11 @@ e desenvolvimento Full Stack utilizando:
 
 ### Banco de Dados
 
-`PostgreSQL` `MySQL` `Prisma` `Sequelize`
+`Oracle Database` `SQL` `PL/SQL` `PostgreSQL` `MySQL` `Prisma` `Sequelize`
 
 ### DevOps & Ferramentas
 
-`Docker` `Docker Compose` `Git` `GitHub` `Swagger`
+`Docker` `Docker Compose` `Git` `GitHub` `Swagger` `Oracle SQL Developer` `Data Modeler`
 
 ### Dados
 
@@ -316,7 +362,9 @@ Busco constantemente aprimorar meus conhecimentos em:
 - TypeScript
 - React
 - APIs REST
-- Bancos de dados
+- Oracle Database e PL/SQL
+- Otimização de consultas SQL e análise de planos de execução
+- Modelagem de bancos de dados relacionais
 - Docker
 - Boas práticas de desenvolvimento
 
@@ -336,9 +384,9 @@ Estou aberto a oportunidades profissionais, colaboração em projetos e troca de
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Back-end Node.js
+### 🚀 Full Stack Developer | Back-end Node.js | SQL & PL/SQL
 
-**Node.js • Express • TypeScript • React • Tailwind CSS • PostgreSQL • Prisma • Docker**
+**Node.js • Express • TypeScript • React • Oracle • PL/SQL • PostgreSQL • MySQL • Prisma • Docker**
 
 ⭐ Transformando regras de negócio em aplicações web.
 
