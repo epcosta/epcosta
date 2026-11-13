@@ -4,7 +4,7 @@
 
 ### 💻 Desenvolvedor Full Stack | Back-end Node.js | SQL & PL/SQL
 
-**Node.js • Express • TypeScript • React • Tailwind CSS • PostgreSQL • MySQL • Oracle • PL/SQL • Prisma • Sequelize • Docker**
+**Node.js • Express • TypeScript • React • Tailwind CSS • PostgreSQL • MySQL • Oracle • PL/SQL • Prisma • Sequelize • Redis • RabbitMQ • Jest • Docker • Kubernetes**
 
 Desenvolvimento de aplicações web, APIs REST, bancos de dados e soluções orientadas a regras de negócio.
 
@@ -41,6 +41,7 @@ Meu objetivo é desenvolver aplicações organizadas, seguras, escaláveis e de 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## 🎨 Front-end
 
@@ -56,16 +57,22 @@ Meu objetivo é desenvolver aplicações organizadas, seguras, escaláveis e de 
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-B71C1C?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ## 🐳 DevOps & Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge)
+
+## 🧪 Testes automatizados
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -333,7 +340,7 @@ Interesse em desenvolvimento e manutenção de sistemas corporativos, rotinas de
 
 ### Back-end
 
-`Node.js` `Express` `TypeScript` `JavaScript` `JWT` `REST API`
+`Node.js` `Express` `TypeScript` `JavaScript` `JWT` `REST API` `RabbitMQ`
 
 ### Front-end
 
@@ -341,11 +348,15 @@ Interesse em desenvolvimento e manutenção de sistemas corporativos, rotinas de
 
 ### Banco de Dados
 
-`Oracle Database` `SQL` `PL/SQL` `PostgreSQL` `MySQL` `Prisma` `Sequelize`
+`Oracle Database` `SQL` `PL/SQL` `PostgreSQL` `MySQL` `Redis` `Prisma` `Sequelize`
 
 ### DevOps & Ferramentas
 
-`Docker` `Docker Compose` `Git` `GitHub` `Swagger` `Oracle SQL Developer` `Data Modeler`
+`Docker` `Docker Compose` `Kubernetes` `Git` `GitHub` `Swagger` `Oracle SQL Developer` `Data Modeler`
+
+### Testes automatizados
+
+`Jest`
 
 ### Dados
 
